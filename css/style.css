@@ -123,7 +123,7 @@ ul {
 }
 
 .header-link:hover,
-.header-linkfocus {
+.header-link:focus {
   color: var(--blue-text);
   cursor: pointer;
 }
